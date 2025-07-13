@@ -1,0 +1,135 @@
+name,guard_name,prefix
+admin-list,admin,Admin
+admin-create,admin,Admin
+admin-edit,admin,Admin
+admin-delete,admin,Admin
+admin-status,admin,Admin
+admin-details,admin,Admin
+admin-trash,admin,Admin
+admin-restore,admin,Admin
+admin-permanent-delete,admin,Admin
+
+role-list,admin,Role
+role-create,admin,Role
+role-edit,admin,Role
+role-delete,admin,Role
+role-details,admin,Role
+role-trash,role,Role
+role-restore,role,Role
+role-permanent-delete,role,Role
+
+permission-list,admin,Permission
+permission-create,admin,Permission
+permission-edit,admin,Permission
+permission-delete,admin,Permission
+permission-details,admin,Permission
+permission-trash,permission,Permission
+permission-restore,permission,Permission
+permission-permanent-delete,permission,Permission
+
+book-list,admin,Book
+book-create,admin,Book
+book-edit,admin,Book
+book-delete,admin,Book
+book-status,admin,Book
+book-details,admin,Book
+book-trash,admin,Book
+book-restore,admin,Book
+book-permanent-delete,admin,Book
+
+category-list,admin,Category
+category-create,admin,Category
+category-edit,admin,Category
+category-delete,admin,Category
+category-status,admin,Category
+category-details,admin,Category
+category-trash,admin,Category
+category-restore,admin,Category
+category-permanent-delete,admin,Category
+
+
+book-issues-list,admin,Book Issues
+book-issues-create,admin,Book Issues
+book-issues-edit,admin,Book Issues
+book-issues-delete,admin,Book Issues
+book-issues-status,admin,Book Issues
+book-issues-details,admin,Book Issues
+book-issues-trash,admin,Book Issues
+book-issues-restore,admin,Book Issues
+book-issues-permanent-delete,admin,Book Issues
+
+
+magazine-issues-list,admin,Magazine Issues
+magazine-issues-create,admin,Magazine Issues
+magazine-issues-edit,admin,Magazine Issues
+magazine-issues-delete,admin,Magazine Issues
+magazine-issues-status,admin,Magazine Issues
+magazine-issues-details,admin,Magazine Issues
+magazine-issues-trash,admin,Magazine Issues
+magazine-issues-restore,admin,Magazine Issues
+magazine-issues-permanent-delete,admin,Magazine Issues
+
+
+publisher-list,admin,Publisher
+publisher-create,admin,Publisher
+publisher-edit,admin,Publisher
+publisher-delete,admin,Publisher
+publisher-status,admin,Publisher
+publisher-details,admin,Publisher
+publisher-trash,admin,Publisher
+publisher-restore,admin,Publisher
+publisher-permanent-delete,admin,Publisher
+
+
+user-list,admin,User
+user-create,admin,User
+user-edit,admin,User
+user-delete,admin,User
+user-status,admin,User
+user-details,admin,User
+user-trash,admin,User
+user-restore,admin,User
+user-permanent-delete,admin,User
+
+
+author-list,admin,Author
+author-create,admin,Author
+author-edit,admin,Author
+author-delete,admin,Author
+author-details,admin,Author
+author-trash,admin,Author
+author-restore,admin,Author
+author-permanent-delete,admin,Author
+
+
+magazine-list,admin,Magazine
+magazine-create,admin,Magazine
+magazine-edit,admin,Magazine
+magazine-delete,admin,Magazine
+magazine-status,admin,Magazine
+magazine-details,admin,Magazine
+magazine-trash,admin,Magazine
+magazine-restore,admin,Magazine
+magazine-permanent-delete,admin,Magazine
+
+
+newspaper-list,admin,Newspaper
+newspaper-create,admin,Newspaper
+newspaper-edit,admin,Newspaper
+newspaper-delete,admin,Newspaper
+newspaper-status,admin,Newspaper
+newspaper-details,admin,Newspaper
+newspaper-trash,admin,Newspaper
+newspaper-restore,admin,Newspaper
+newspaper-permanent-delete,admin,Newspaper
+
+
+rack-list,admin,Rack
+rack-create,admin,Rack
+rack-edit,admin,Rack
+rack-delete,admin,Rack
+rack-status,admin,Rack
+rack-details,admin,Rack
+rack-trash,admin,Rack
+rack-restore,admin,Rack
+rack-permanent-delete,admin,Rack
